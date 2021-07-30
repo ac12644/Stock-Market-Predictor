@@ -1,5 +1,7 @@
 # Forecasting the Stock Market with Watson Studio
-This will run on IBM WATSON service.
+Using the IBM Watson Studio and other popular open-source Python libraries for data science, this code pattern provides an example of data science workflow which attempts to predict the end-of-day value of S&P 500 stocks based on historical data. It includes the data mining process, that uses the Quandl API – a marketplace for financial, economic and alternative data delivered in modern formats for today's analysts.
+
+
 
 ## FLOW
 ![flow-diagram](https://github.com/ac12644/Stock-Market-prediction-AI/blob/master/architecture.png?raw=true)
